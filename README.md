@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 
 ---
 
+<!-- use github-readme-stats-sigma-five.vercel.app on Something went wrong! errors, see https://github.com/anuraghazra/github-readme-stats/issues/2149 -->
+
 <div>
-  <img height="190" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lyokha&count_private=true&include_all_commits=true&show_icons=true" />
-  <img height="190" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lyokha&layout=compact&langs_count=10&hide=CMake,Makefile,HTML" />
+  <img height="190" align="left" src="https://github-readme-stats.vercel.app/api?username=lyokha&count_private=true&include_all_commits=true&show_icons=true" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyokha&layout=compact&langs_count=10&hide=CMake,Makefile,HTML" />
 </div>
 
 ---
