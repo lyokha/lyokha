@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h2>🏆 Github Profile Trophy</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=lyokha&column=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=lyokha&column=8&title=-Followers,-Reviews"/>
 
 ---
 
