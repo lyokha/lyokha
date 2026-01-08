@@ -29,8 +29,20 @@ jobs:
 
       - name: Generate trophy card
         run: |
-          OPTIONS='&column=8&title=-Followers,-Reviews'
-          wget "https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}$OPTIONS" -O profile/trophy.svg
+          options='&column=8&title=-Followers,-Reviews'
+          backends="https://github-profile-trophy-liard-delta.vercel.app "`
+                  `"https://github-profile-trophy-fork-two.vercel.app "`
+                  `"https://github-profile-trophy-winning.vercel.app"
+          res=fail
+          for backend in $backends
+          do
+              if wget "$backend/?username=${{ github.repository_owner }}$options" -O profile/trophy.svg
+              then
+                  res=success
+                  break
+              fi
+          done
+          [ "$res" = success ]
 
       - name: Commit cards
         run: |
