@@ -30,8 +30,9 @@ jobs:
       - name: Generate trophy card
         run: |
           options='&column=8&title=-Followers,-Reviews'
-          backends="https://github-profile-trophy-liard-delta.vercel.app "`
+          backends="https://github-profile-trophy.vercel.app "`
                   `"https://github-profile-trophy-fork-two.vercel.app "`
+                  `"https://github-profile-trophy-liard-delta.vercel.app "`
                   `"https://github-profile-trophy-winning.vercel.app"
           res=fail
           for backend in $backends
