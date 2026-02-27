@@ -32,8 +32,12 @@ jobs:
           options='&column=8&title=-Followers,-Reviews'
           backends="https://github-profile-trophy.vercel.app "`
                   `"https://github-profile-trophy-fork-two.vercel.app "`
-                  `"https://github-profile-trophy-liard-delta.vercel.app "`
-                  `"https://github-profile-trophy-winning.vercel.app"
+                  `"https://github-profile-trophy-winning.vercel.app "`
+                  `"https://github-profile-trophy-kannan.vercel.app "`
+                  `"https://trophy.ryglcloud.net "`
+                  `"https://github-profile-trophy-tawny.vercel.app "`
+                  `"https://github-profile-repo.vercel.app "`
+                  `"https://gh-trophy.cdnsoft.net"
           res=fail
           for backend in $backends
           do
