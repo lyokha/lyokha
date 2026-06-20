@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="92.53"
+          width="92.5"
           height="8"
           fill="#f34b7d"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="92.53"
+          x="92.5"
           y="0"
-          width="64.38"
+          width="64.36"
           height="8"
           fill="#555555"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="156.91"
+          x="156.86"
           y="0"
-          width="56.7"
+          width="56.68"
           height="8"
           fill="#5e5086"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="213.61"
+          x="213.54000000000002"
           y="0"
-          width="16.53"
+          width="16.6"
           height="8"
           fill="#199f4b"
         />
@@ -231,7 +231,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 37.01%
+        C++ 37.00%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -245,14 +245,14 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#5e5086" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Haskell 22.68%
+        Haskell 22.67%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#199f4b" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vim Script 6.61%
+        Vim Script 6.64%
       </text>
     </g>
   </g><g transform="translate(0, 100)">
