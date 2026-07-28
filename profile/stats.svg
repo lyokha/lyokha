@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Alexey Radkov's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 842, Total Commits  : 4486, Total PRs: 86, Total Issues: 61, Contributed to (last year): 6</desc>
+        <title id="titleId">Alexey Radkov&#39;s GitHub Stats, Rank: A</title>
+        <desc id="descId">Total Stars Earned: 842, Total Commits  : 4487, Total PRs: 86, Total Issues: 61, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 56.25907760949564;
+        stroke-dashoffset: 56.25778239110139;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Alexey Radkov's GitHub Stats</text>
+      >Alexey Radkov&#39;s GitHub Stats</text>
     </g>
       </g>
     
