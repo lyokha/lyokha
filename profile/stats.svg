@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Alexey Radkov&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 842, Total Commits  : 4492, Total PRs: 86, Total Issues: 61, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 842, Total Commits  : 4491, Total PRs: 86, Total Issues: 61, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 56.25131974868785;
+        stroke-dashoffset: 56.252610485966876;
       }
     }
   
